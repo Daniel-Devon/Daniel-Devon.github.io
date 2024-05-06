@@ -5,7 +5,7 @@
 # Yet another theme for elegant writers with modern flat style and beautiful
 # night/dark mode.
 #
-# Website: https://github.com/jeffreytse/jekyll-theme-yat
+# Website: https://github.com/https://github.com/Daniel-Devon/Daniel-Devon.github.io      
 #
 # You can do anything you want, including projects for your clients, as long
 # as you mention an attribution back (credit links in footer or project).
@@ -31,8 +31,8 @@ author: DEVON
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
 # * current year: {currentYear}
-# * author: {author} (Value is the same as site.author)
-# * copyright: (c) - ©
+# * author: {aDEVON} (Value is the same as site.author)
+# * copyright: (c) - 2024 <a href="https:quora.com">DEVON/a
 # * copyleft: (cleft)
 # * sound recording copyright: (p) - ℗
 #
@@ -47,7 +47,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "climaxgenius.com
-favicon: "" # the favicon for your site
+favicon: "" # we rock!
 
 # Yat date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
